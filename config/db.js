@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 // Se o projeto for público, troque a senha do usuário do MongoDB e use
 // MONGODB_URI nas Environment Variables da Vercel.
 const MONGODB_URI =
-  "mongodb+srv://admin:admin@cluster0.z4p0psn.mongodb.net/?appName=Cluster0";
+  "mongodb+srv://brazao:bra@cluster0.1u1lfry.mongodb.net/?appName=Cluster0";
 
 let conexao = null;
 
